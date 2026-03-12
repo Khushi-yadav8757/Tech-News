@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+#news-container{
+    width:80%;
+    margin:auto;
+}
+
+.news{
+    background:white;
+    padding:15px;
+    margin:10px;
+    border-radius:5px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.2);
+}
+
+.news a{
+    text-decoration:none;
+    color:#0077cc;
+    font-weight:bold;
+}
